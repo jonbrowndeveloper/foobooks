@@ -1,6 +1,6 @@
 # Practice work
-+ By: Susan Buck
-+ Production URL: <http://foobooks.dwa15.me>
++ By: Jonathon Brown
++ Production URL: <http://foobooks.jonbrowndeveloper.me>
 
 ## Outside resources
 + Styling via [Bootstrap CDN](https://www.bootstrapcdn.com)
